@@ -5,19 +5,29 @@
 
 /* Custom styling for your site */
 
-/* Logo/Favicon in header */
+/* Header with inline navigation */
 .site-header {
   border-bottom: 1px solid #e1e4e8;
   padding: 16px 0;
 }
 
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
 .site-title {
   display: flex;
   align-items: center;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 600;
-  color: #0366d6;
+  color: #24292e;
   text-decoration: none;
+  white-space: nowrap;
 }
 
 .site-title:hover {
@@ -26,22 +36,26 @@
 }
 
 .site-logo {
-  width: 40px;
-  height: 40px;
-  margin-right: 12px;
+  width: 32px;
+  height: 32px;
+  margin-right: 10px;
   border-radius: 4px;
 }
 
-/* Navigation improvements */
+/* Navigation inline with title */
 .site-nav {
-  margin-top: 12px;
+  display: flex;
+  gap: 24px;
+  align-items: center;
 }
 
 .site-nav a {
-  margin-right: 20px;
   color: #586069;
   text-decoration: none;
   font-weight: 500;
+  font-size: 15px;
+  padding: 8px 0;
+  white-space: nowrap;
 }
 
 .site-nav a:hover {
@@ -52,7 +66,6 @@
 .site-nav a.active {
   color: #0366d6;
   border-bottom: 2px solid #0366d6;
-  padding-bottom: 4px;
 }
 
 /* Content styling */
@@ -120,9 +133,15 @@ code {
 
 /* Responsive design */
 @media (max-width: 768px) {
-  .site-nav a {
-    display: block;
-    margin: 8px 0;
+  .header-content {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+  }
+  
+  .site-nav {
+    flex-wrap: wrap;
+    gap: 16px;
   }
   
   .page-content {
