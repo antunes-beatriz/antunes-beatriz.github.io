@@ -1,4 +1,32 @@
 title: Beatriz Antunes
-description: Bioinformatics
-
+description: Bioinformatics | Data Science | Computational Biology
 theme: jekyll-theme-primer
+url: "https://yourusername.github.io"
+baseurl: ""
+
+# Navigation
+header_pages:
+  - index.md
+  - experience.md
+  - education.md
+  - projects.md
+  - publications.md
+  - contact.md
+
+# Author information
+author:
+  name: Beatriz Antunes
+  email: antunes.c.beatriz@gmail.com
+
+# Social links (optional)
+social:
+  - title: GitHub
+    url: https://github.com/yourusername
+  - title: LinkedIn
+    url: https://linkedin.com/in/yourprofile
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
