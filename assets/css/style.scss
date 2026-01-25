@@ -13,36 +13,32 @@
 
 .header-content {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
+  gap: 32px;
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 20px;
 }
 
-.site-title {
+.site-logo-link {
   display: flex;
   align-items: center;
-  font-size: 20px;
-  font-weight: 600;
-  color: #24292e;
   text-decoration: none;
-  white-space: nowrap;
 }
 
-.site-title:hover {
-  text-decoration: none;
-  color: #0366d6;
+.site-logo-link:hover .site-logo {
+  opacity: 0.8;
 }
 
 .site-logo {
   width: 32px;
   height: 32px;
-  margin-right: 10px;
   border-radius: 4px;
+  display: block;
 }
 
-/* Navigation inline with title */
+/* Navigation inline with logo */
 .site-nav {
   display: flex;
   gap: 24px;
