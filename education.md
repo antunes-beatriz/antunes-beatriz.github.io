@@ -53,7 +53,7 @@ title: Education
       <li>Erasmus+ Program: Completed a semester at the <strong>TUM School of Management (Munich)</strong></li>
   </ul>
   
-  <h3 class="subsection-title">Key Coursework</h3>
+  <h3 class="subsection-title">Relevant Coursework</h3>
   <ul class="experience-details">
       <li>Data Analysis and Statistics</li>
       <li>Data Treatment and Database Management</li>
