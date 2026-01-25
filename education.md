@@ -14,9 +14,6 @@ title: Education
       <span class="location">Copenhagen, Denmark</span>
     </div>
   </div>
-  <a href="projects" class="view-projects-link">
-    <span class="arrow">→</span> Explore Research Projects
-  </a>
   
   <p class="education-focus"><strong>Focus:</strong> Integrating molecular biology and computer science to process and interpret large-scale biological datasets.</p>
   <h3 class="subsection-title">Core Competencies</h3>
@@ -31,6 +28,9 @@ title: Education
       <li>Machine Learning</li>
       <li>Data Science for Genomics</li>
   </ul>
+  <a href="projects" class="view-projects-link">
+    <span class="arrow">→</span> Explore Research Projects
+  </a>
 </div>
 
 <div class="experience-item">
