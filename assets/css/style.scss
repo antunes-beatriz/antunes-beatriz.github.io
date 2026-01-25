@@ -160,6 +160,20 @@
   font-weight: bold;
 }
 
+.home-grid {
+  display: flex;
+  gap: 40px;
+  margin-top: 20px;
+}
+.home-column {
+  flex: 1;
+}
+.cta-links {
+  display: flex;
+  gap: 15px;
+  margin-top: 10px;
+}
+
 /* Section breaks */
 .section-break {
   height: 1px;
