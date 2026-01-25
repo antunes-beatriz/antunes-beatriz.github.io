@@ -16,7 +16,7 @@ I'm a bioinformatics professional with expertise in RNA-seq analysis, computatio
 
 ## Skills Overview
 
-**Programming & Analysis:** Python, R, Unix/Linux, SQL  
-**Bioinformatics:** RNA-seq analysis, variant calling, sequence analysis, HMM modeling  
-**Data Science:** Machine learning, statistical analysis, data visualization  
-**Tools:** Databricks, Power BI, Git, HPC systems
+- **Programming & Analysis:** Python, R, Unix/Linux, SQL
+- **Bioinformatics:** RNA-seq analysis, variant calling, sequence analysis, HMM modeling
+- **Data Science:** Machine learning, statistical analysis, data visualization
+- **Tools:** Databricks, Power BI, Git, HPC systems
