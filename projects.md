@@ -10,7 +10,7 @@ title: Projects
       <p class="company">University of Copenhagen</p>
     </div>
     <div class="experience-meta">
-      <span class="duration">November 2024 - January 2025</span>
+      <span class="location">November 2024 - January 2025</span>
     </div>
   </div>
   <p class="project-description">This project focused on improving the detection of polyadenylation tail regions in RNA sequencing data from Oxford Nanopore Technologies.</p>
@@ -33,7 +33,7 @@ title: Projects
       <p class="company">University of Copenhagen</p>
     </div>
     <div class="experience-meta">
-      <span class="duration">June 2024 - August 2024</span>
+      <span class="location">June 2024 - August 2024</span>
     </div>
   </div>
   <p class="project-description">This population genetics project investigated the temporal dynamics of genomic regions with reduced diversity.</p>
@@ -57,7 +57,7 @@ title: Projects
       <p class="company">University of Copenhagen</p>
     </div>
     <div class="experience-meta">
-      <span class="duration">2024 - 2025</span>
+      <span class="location">2024 - 2025</span>
     </div>
   </div>
   <p class="project-description">This research evaluated computational methods for predicting how mutations affect protein-protein interactions using large-scale experimental data.</p>
