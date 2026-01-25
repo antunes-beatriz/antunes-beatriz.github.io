@@ -26,8 +26,8 @@ title: Research Projects
   
   <p class="project-tech"><span class="skill-label">Technologies:</span> Python, R, protein structure analysis tools, statistical modeling</p>
   <a href="https://github.com/antunes-beatriz/Thesis" target="_blank" class="github-link">
-  <span class="github-icon">⟨⟩</span> View Code & Report
-</a>
+    → View Code & Report on GitHub
+  </a>
 </div>
 
 <div class="project-item">
