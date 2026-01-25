@@ -246,23 +246,15 @@
 .view-projects-link {
   display: inline-block;
   margin-top: 24px;
-  padding: 10px 20px;
-  background: #f6f8fa;
-  border: 1px solid #e1e4e8;
-  border-radius: 6px;
+  margin-bottom: 20px;
   color: #0366d6;
   font-weight: 500;
   text-decoration: none;
-  transition: all 0.2s;
 }
 
 .view-projects-link:hover {
-  background: #0366d6;
-  color: white;
-  border-color: #0366d6;
-  text-decoration: none;
+  text-decoration: underline;
 }
-
 .view-projects-link .arrow {
   margin-right: 6px;
 }
