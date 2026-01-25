@@ -292,6 +292,31 @@
   color: #24292e;
 }
 
+.github-link {
+  display: inline-block;
+  margin: 16px 0 20px 0;
+  padding: 8px 16px;
+  background: #24292e;
+  color: white;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+.github-link:hover {
+  background: #0366d6;
+  color: white;
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+.github-icon {
+  margin-right: 6px;
+  font-weight: 600;
+}
+
 h1 {
   color: #24292e;
   border-bottom: 1px solid #e1e4e8;
