@@ -6,19 +6,13 @@ title: Education
 <div class="experience-item">
   <div class="experience-header">
     <div>
-      <h2>MSc in Bioinformatics</h2>
-      <p class="company">University of Copenhagen · Specialization in Computer Science</p>
+      <h2>MSc in Bioinformatics <span class="specialization">· Specialization in Computer Science</span></h2>
+      <p class="company">University of Copenhagen</p>
     </div>
     <div class="experience-meta">
       <span class="duration">September 2023 - June 2025</span>
       <span class="location">Copenhagen, Denmark</span>
     </div>
-  </div>
-  
-  <div class="thesis-section">
-    <p class="thesis-label">Master Thesis</p>
-    <p class="thesis-title">Benchmarking prediction of mutational effects on protein-protein interactions using MAVE data</p>
-    <p class="thesis-description">This research focused on evaluating computational methods for predicting how mutations affect protein-protein interactions, using Multiplexed Assays of Variant Effects (MAVE) data as ground truth for benchmarking.</p>
   </div>
   
   <h3 class="subsection-title">Relevant Coursework</h3>
@@ -27,6 +21,10 @@ title: Education
     <li>Machine Learning</li>
     <li>Data Science for Genomics</li>
   </ul>
+  
+  <a href="projects" class="view-projects-link">
+    <span class="arrow">→</span> Explore Research Projects
+  </a>
 </div>
 
 <div class="experience-item">
