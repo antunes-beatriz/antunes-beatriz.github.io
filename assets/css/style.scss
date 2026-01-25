@@ -25,6 +25,8 @@
   display: flex;
   align-items: center;
   text-decoration: none;
+  font-size: 0; /* Hide any text */
+  line-height: 0;
 }
 
 .site-logo-link:hover .site-logo {
@@ -36,6 +38,11 @@
   height: 32px;
   border-radius: 4px;
   display: block;
+}
+
+/* Hide site title completely */
+.site-title {
+  display: none !important;
 }
 
 /* Navigation inline with logo */
