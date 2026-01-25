@@ -17,13 +17,6 @@ I'm always interested in discussing bioinformatics research, data science projec
 
 ---
 
-## Connect Online
-
-**GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
----
-
 ## About Me
 
 Beyond my professional work in bioinformatics and data science, I enjoy:
@@ -33,7 +26,3 @@ Beyond my professional work in bioinformatics and data science, I enjoy:
 - **Exercise** to stay healthy and energized
 - **Quality time with friends** and engaging social connections
 - **Strategic board games** that challenge analytical thinking
-
----
-
-*Feel free to reach out for research collaborations, job opportunities, or just to connect!*
