@@ -15,9 +15,9 @@ title: Experience
     </div>
   </div>
   <ul class="experience-details">
-    <li>Data exploration and visualization in R and Python</li>
-    <li>Statistical significance assessment of variables</li>
-    <li>RNA-seq data processing and differential expression analysis using nf-core/rnaseq and DESeq2</li>
+    <li>Data exploration and visualization in <strong>R</strong> and <strong>Python</strong></li>
+    <li><strong>Statistical significance assessment</strong> of variables</li>
+    <li><strong>RNA-seq data processing</strong> and differential expression analysis using nf-core/rnaseq and DESeq2</li>
   </ul>
 </div>
 
@@ -33,8 +33,8 @@ title: Experience
     </div>
   </div>
   <ul class="experience-details">
-    <li>Protein variant generation and stability prediction using Rosetta</li>
-    <li>Pipeline optimization and execution in Python and Unix on HPC systems</li>
+    <li><strong>Protein variant generation</strong> and stability prediction using Rosetta</li>
+    <li><strong>Pipeline optimization</strong> and execution in Python and Unix on <strong>HPC systems</strong></li>
   </ul>
 </div>
 
@@ -42,7 +42,7 @@ title: Experience
   <div class="experience-header">
     <div>
       <h2>Data Science Student Assistant</h2>
-      <p class="company">Laerdal Medical</p>
+      <p class="company">Laerdal Medical, Copenhagen</p>
     </div>
     <div class="experience-meta">
       <span class="duration">March 2024 - October 2024</span>
@@ -50,9 +50,9 @@ title: Experience
     </div>
   </div>
   <ul class="experience-details">
-    <li>Data cleaning and processing using Databricks</li>
-    <li>Interactive dashboard development in Power BI for product and user insights</li>
-    <li>Product testing and issue reporting in cross-functional teams</li>
+    <li><strong>Data cleaning and processing</strong> using Databricks</li>
+    <li>Interactive <strong>dashboard development</strong> in Power BI for product and user insights</li>
+    <li>Product testing and issue reporting in <strong>cross-functional teams</strong></li>
   </ul>
 </div>
 
@@ -63,17 +63,17 @@ title: Experience
 <div class="skills-grid">
   <div class="skill-item">
     <h3>Programming Languages</h3>
-    <p><span class="skill-label">Python:</span> numpy, scipy, pandas, matplotlib, seaborn, sklearn, tensorflow, torch, hmmlearn, dna_features_viewer</p>
-    <p><span class="skill-label">R:</span> ggplot2, ggrepel, pheatmap, tidyverse, DESeq2, Biostrings, bioseq, msa, phytools, ape, geiger</p>
-    <p><span class="skill-label">Other:</span> Unix/Linux shell scripting, SQL, PySpark</p>
+    <p><code>Python</code> numpy, scipy, pandas, matplotlib, seaborn, sklearn, tensorflow, torch, hmmlearn, dna_features_viewer</p>
+    <p><code>R</code> ggplot2, ggrepel, pheatmap, tidyverse, DESeq2, Biostrings, bioseq, msa, phytools, ape, geiger</p>
+    <p><code>Unix/Linux</code> <code>SQL</code> <code>PySpark</code></p>
   </div>
   
   <div class="skill-item">
     <h3>Tools & Platforms</h3>
-    <p>PowerBI for data visualization</p>
-    <p>Databricks for data analysis and processing</p>
-    <p>Vue for frontend development</p>
-    <p>Git for version control and collaboration</p>
+    <p><code>PowerBI</code> for data visualization</p>
+    <p><code>Databricks</code> for data analysis and processing</p>
+    <p><code>Vue</code> for frontend development</p>
+    <p><code>Git</code> for version control and collaboration</p>
     <p>HPC systems and cluster computing</p>
   </div>
   
