@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome
+# Beatriz Antunes
 
 I'm a bioinformatics professional with expertise in RNA-seq analysis, computational biology, and data science. Currently working as a Bioinformatician at Universitätsklinikum Heidelberg, I combine strong technical skills in Python, R, and Unix with a passion for extracting meaningful insights from biological data.
 
