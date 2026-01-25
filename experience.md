@@ -15,9 +15,9 @@ title: Experience
     </div>
   </div>
   <ul class="experience-details">
-    <li>Data exploration and visualization in <strong>R</strong> and <strong>Python</strong></li>
-    <li><strong>Statistical significance assessment</strong> of variables</li>
+    <li>Implementing <strong>machine learning frameworks</strong> to predict the timing and risk of disease progression in high-risk cancer cohorts</li>
     <li><strong>RNA-seq data processing</strong> and differential expression analysis using nf-core/rnaseq and DESeq2</li>
+    <li><strong>Statistical significance assessment</strong> and high-dimensional data visualization in R and Python</li>
   </ul>
 </div>
 
@@ -34,7 +34,7 @@ title: Experience
   </div>
   <ul class="experience-details">
     <li><strong>Protein variant generation</strong> and stability prediction using Rosetta</li>
-    <li><strong>Pipeline optimization</strong> and execution in Python and Unix on <strong>HPC systems</strong></li>
+    <li><strong>Pipeline optimization</strong> and high-throughput execution in Python and Unix on <strong>HPC systems</strong></li>
   </ul>
 </div>
 
@@ -50,9 +50,9 @@ title: Experience
     </div>
   </div>
   <ul class="experience-details">
-    <li><strong>Data cleaning and processing</strong> using Databricks</li>
-    <li>Interactive <strong>dashboard development</strong> in Power BI for product and user insights</li>
-    <li>Product testing and issue reporting in <strong>cross-functional teams</strong></li>
+    <li><strong>Data cleaning and processing</strong> at scale using Databricks and PySpark</li>
+    <li>Interactive <strong>dashboard development</strong> in Power BI to translate complex data into user insights</li>
+    <li>Product testing and issue reporting in <strong>cross-functional Agile teams</strong></li>
   </ul>
 </div>
 
