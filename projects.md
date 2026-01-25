@@ -6,7 +6,7 @@ title: Research Projects
 <div class="project-item">
   <div class="experience-header">
     <div>
-      <h2>Master Thesis: Benchmarking Prediction of Mutational Effects on Protein-Protein Interactions</h2>
+      <h2>Benchmarking Prediction of Mutational Effects on Protein-Protein Interactions using MAVE data</h2>
       <p class="company">Amelie Stein Group</p>
     </div>
     <div class="experience-meta">
@@ -14,7 +14,7 @@ title: Research Projects
       <span class="location">Copenhagen, Denmark</span>
     </div>
   </div>
-  <p class="project-description">This research evaluated computational methods for predicting how mutations affect protein-protein interactions using large-scale experimental data.</p>
+  <p class="project-description">This Master's thesis evaluated computational methods for predicting how mutations affect protein-protein interactions using large-scale experimental data.</p>
   
   <h3 class="subsection-title">Key Contributions</h3>
   <ul class="experience-details">
