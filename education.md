@@ -14,17 +14,15 @@ title: Education
       <span class="location">Copenhagen, Denmark</span>
     </div>
   </div>
-  
+  <a href="projects" class="view-projects-link">
+    <span class="arrow">→</span> Explore Research Projects
+  </a>
   <h3 class="subsection-title">Relevant Coursework</h3>
   <ul class="experience-details">
     <li>Advanced Bioinformatics</li>
     <li>Machine Learning</li>
     <li>Data Science for Genomics</li>
   </ul>
-  
-  <a href="projects" class="view-projects-link">
-    <span class="arrow">→</span> Explore Research Projects
-  </a>
 </div>
 
 <div class="experience-item">
@@ -41,7 +39,7 @@ title: Education
   
   <ul class="experience-details">
     <li>Honor student in first and second years</li>
-    <li>Erasmus Program participant at TUM School of Management</li>
+    <li>Erasmus Program semester at TUM School of Management</li>
   </ul>
   
   <h3 class="subsection-title">Relevant Coursework</h3>
