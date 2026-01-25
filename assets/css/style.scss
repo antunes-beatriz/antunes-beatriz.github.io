@@ -174,10 +174,10 @@
 }
 
 /* Skills section */
-.skills-group {
-  display: flex;
-  flex-direction: column;
-  gap: 24px;
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
 }
 
 .skill-item h3 {
