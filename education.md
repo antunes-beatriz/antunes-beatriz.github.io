@@ -7,7 +7,7 @@ title: Education
   <div class="experience-header">
     <div>
       <h2>MSc in Bioinformatics <span class="specialization">· Specialization in Computer Science</span></h2>
-      <p class="company"><a href="https://www.ku.dk/studies/masters/bioinformatics">University of Copenhagen</a></p>
+      <p class="company">University of Copenhagen</p>
     </div>
     <div class="experience-meta">
       <span class="duration">September 2023 - June 2025</span>
@@ -17,6 +17,7 @@ title: Education
   <a href="projects" class="view-projects-link">
     <span class="arrow">→</span> Explore Research Projects
   </a>
+  
   <p class="education-focus"><strong>Focus:</strong> Integrating molecular biology and computer science to process and interpret large-scale biological datasets.</p>
   <h3 class="subsection-title">Core Competencies</h3>
   <ul class="experience-details">
