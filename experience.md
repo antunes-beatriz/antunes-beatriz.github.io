@@ -25,7 +25,7 @@ title: Experience
   <div class="experience-header">
     <div>
       <h2>Academic Researcher</h2>
-      <p class="company">Department of Computational and RNA Biology, UCPH — Amelie Stein Group</p>
+      <p class="company">Stein Group</p>
     </div>
     <div class="experience-meta">
       <span class="duration">November 2024 - June 2025</span>
@@ -42,7 +42,7 @@ title: Experience
   <div class="experience-header">
     <div>
       <h2>Data Science Student Assistant</h2>
-      <p class="company">Laerdal Medical, Copenhagen</p>
+      <p class="company">Laerdal Medical</p>
     </div>
     <div class="experience-meta">
       <span class="duration">March 2024 - October 2024</span>
