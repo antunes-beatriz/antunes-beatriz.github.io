@@ -10,8 +10,8 @@ title: Experience
       <p class="company">Universitätsklinikum Heidelberg</p>
     </div>
     <div class="experience-meta">
-      <span class="duration">📅 July 2025 - June 2026</span>
-      <span class="location">📍 Heidelberg, Germany</span>
+      <span class="duration">July 2025 - June 2026</span>
+      <span class="location">Heidelberg, Germany</span>
     </div>
   </div>
   <ul class="experience-details">
@@ -28,8 +28,8 @@ title: Experience
       <p class="company">Department of Computational and RNA Biology, UCPH — Amelie Stein Group</p>
     </div>
     <div class="experience-meta">
-      <span class="duration">📅 November 2024 - June 2025</span>
-      <span class="location">📍 Copenhagen, Denmark</span>
+      <span class="duration">November 2024 - June 2025</span>
+      <span class="location">Copenhagen, Denmark</span>
     </div>
   </div>
   <ul class="experience-details">
@@ -42,11 +42,11 @@ title: Experience
   <div class="experience-header">
     <div>
       <h2>Data Science Student Assistant</h2>
-      <p class="company">Laerdal Medical, Copenhagen</p>
+      <p class="company">Laerdal Medical</p>
     </div>
     <div class="experience-meta">
-      <span class="duration">📅 March 2024 - October 2024</span>
-      <span class="location">📍 Copenhagen, Denmark</span>
+      <span class="duration">March 2024 - October 2024</span>
+      <span class="location">Copenhagen, Denmark</span>
     </div>
   </div>
   <ul class="experience-details">
