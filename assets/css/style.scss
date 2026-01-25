@@ -207,7 +207,7 @@
 .languages-list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 16px;
+  gap: 24px;
 }
 
 .language-item {
@@ -229,6 +229,12 @@
 }
 
 /* Education page specific styles */
+.specialization {
+  font-size: 16px;
+  font-weight: 400;
+  color: #586069;
+}
+
 .subsection-title {
   color: #24292e;
   font-size: 15px;
@@ -237,22 +243,28 @@
   margin-bottom: 12px;
 }
 
-.view-projects {
+.view-projects-link {
+  display: inline-block;
   margin-top: 24px;
-  padding-top: 16px;
-  border-top: 1px solid #e1e4e8;
-  color: #586069;
-  font-size: 14px;
-}
-
-.view-projects a {
+  padding: 10px 20px;
+  background: #f6f8fa;
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
   color: #0366d6;
   font-weight: 500;
   text-decoration: none;
+  transition: all 0.2s;
 }
 
-.view-projects a:hover {
-  text-decoration: underline;
+.view-projects-link:hover {
+  background: #0366d6;
+  color: white;
+  border-color: #0366d6;
+  text-decoration: none;
+}
+
+.view-projects-link .arrow {
+  margin-right: 6px;
 }
 
 /* Projects page specific styles */
@@ -301,10 +313,24 @@ h3 {
 
 /* Links */
 a {
-  color: #0366d6;
+  color: #24292e;
+  text-decoration: none;
 }
 
 a:hover {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+/* Main content links that should be blue */
+.page-content p a,
+.page-content li a,
+.view-projects-link {
+  color: #0366d6;
+}
+
+.page-content p a:hover,
+.page-content li a:hover {
   text-decoration: underline;
 }
 
