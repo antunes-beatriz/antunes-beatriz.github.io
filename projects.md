@@ -1,16 +1,41 @@
 ---
 layout: default
-title: Projects
+title: Research Projects
 ---
 
 <div class="project-item">
   <div class="experience-header">
     <div>
-      <h2>Poly(A) Tail Detection with Nanopore Data using Gaussian HMM</h2>
-      <p class="company">University of Copenhagen</p>
+      <h2>Master Thesis: Benchmarking Prediction of Mutational Effects on Protein-Protein Interactions</h2>
+      <p class="company">Stein Group</p>
     </div>
     <div class="experience-meta">
-      <span class="location">November 2024 - January 2025</span>
+      <span class="duration">February 2025 - May 2025</span>
+      <span class="location">Copenhagen, Denmark</span>
+    </div>
+  </div>
+  <p class="project-description">This research evaluated computational methods for predicting how mutations affect protein-protein interactions using large-scale experimental data.</p>
+  
+  <h3 class="subsection-title">Key Contributions</h3>
+  <ul class="experience-details">
+    <li>Compiled and processed MAVE (Multiplexed Assays of Variant Effects) datasets</li>
+    <li>Benchmarked multiple prediction algorithms for accuracy and reliability</li>
+    <li>Analyzed performance across different protein families and interaction types</li>
+    <li>Provided recommendations for method selection based on use case</li>
+  </ul>
+  
+  <p class="project-tech"><span class="skill-label">Technologies:</span> Python, R, protein structure analysis tools, statistical modeling</p>
+</div>
+
+<div class="project-item">
+  <div class="experience-header">
+    <div>
+      <h2>Poly(A) Tail Detection with Nanopore Data using Gaussian HMM</h2>
+      <p class="company">Sandelin Group</p>
+    </div>
+    <div class="experience-meta">
+      <span class="duration">November 2024 - January 2025</span>
+      <span class="location">Copenhagen, Denmark</span>
     </div>
   </div>
   <p class="project-description">This project focused on improving the detection of polyadenylation tail regions in RNA sequencing data from Oxford Nanopore Technologies.</p>
@@ -30,10 +55,11 @@ title: Projects
   <div class="experience-header">
     <div>
       <h2>Age of Runs of Homozygosity</h2>
-      <p class="company">University of Copenhagen</p>
+      <p class="company">Albrechtsen Group</p>
     </div>
     <div class="experience-meta">
-      <span class="location">June 2024 - August 2024</span>
+      <span class="duration">June 2024 - August 2024</span>
+      <span class="location">Copenhagen, Denmark</span>
     </div>
   </div>
   <p class="project-description">This population genetics project investigated the temporal dynamics of genomic regions with reduced diversity.</p>
@@ -48,27 +74,4 @@ title: Projects
   </ul>
   
   <p class="project-tech"><span class="skill-label">Technologies:</span> Python, coalescent simulation tools, population genetics analysis</p>
-</div>
-
-<div class="project-item">
-  <div class="experience-header">
-    <div>
-      <h2>Master Thesis: Benchmarking Prediction of Mutational Effects on Protein-Protein Interactions</h2>
-      <p class="company">University of Copenhagen</p>
-    </div>
-    <div class="experience-meta">
-      <span class="location">2024 - 2025</span>
-    </div>
-  </div>
-  <p class="project-description">This research evaluated computational methods for predicting how mutations affect protein-protein interactions using large-scale experimental data.</p>
-  
-  <h3 class="subsection-title">Key Contributions</h3>
-  <ul class="experience-details">
-    <li>Compiled and processed MAVE (Multiplexed Assays of Variant Effects) datasets</li>
-    <li>Benchmarked multiple prediction algorithms for accuracy and reliability</li>
-    <li>Analyzed performance across different protein families and interaction types</li>
-    <li>Provided recommendations for method selection based on use case</li>
-  </ul>
-  
-  <p class="project-tech"><span class="skill-label">Technologies:</span> Python, R, protein structure analysis tools, statistical modeling</p>
 </div>
