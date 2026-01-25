@@ -7,7 +7,7 @@ title: Research Projects
   <div class="experience-header">
     <div>
       <h2>Master Thesis: Benchmarking Prediction of Mutational Effects on Protein-Protein Interactions</h2>
-      <p class="company">Stein Group</p>
+      <p class="company">Amelie Stein Group</p>
     </div>
     <div class="experience-meta">
       <span class="duration">February 2025 - May 2025</span>
@@ -31,7 +31,7 @@ title: Research Projects
   <div class="experience-header">
     <div>
       <h2>Poly(A) Tail Detection with Nanopore Data using Gaussian HMM</h2>
-      <p class="company">Sandelin Group</p>
+      <p class="company">Amelie Stein Group</p>
     </div>
     <div class="experience-meta">
       <span class="duration">November 2024 - January 2025</span>
@@ -55,7 +55,7 @@ title: Research Projects
   <div class="experience-header">
     <div>
       <h2>Age of Runs of Homozygosity</h2>
-      <p class="company">Albrechtsen Group</p>
+      <p class="company">Amelie Stein Group</p>
     </div>
     <div class="experience-meta">
       <span class="duration">June 2024 - August 2024</span>
