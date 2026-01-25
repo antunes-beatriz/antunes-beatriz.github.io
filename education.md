@@ -7,26 +7,25 @@ title: Education
   <div class="experience-header">
     <div>
       <h2>MSc in Bioinformatics</h2>
-      <p class="company">University of Copenhagen</p>
+      <p class="company">University of Copenhagen · Specialization in Computer Science</p>
     </div>
     <div class="experience-meta">
       <span class="duration">September 2023 - June 2025</span>
       <span class="location">Copenhagen, Denmark</span>
     </div>
   </div>
-  <p class="education-specialization">Specialization in Computer Science</p>
   
-  <h3 class="subsection-title">Master Thesis</h3>
-  <p class="thesis-title">"Benchmarking prediction of mutational effects on protein-protein interactions using MAVE data"</p>
-  <p>This research focused on evaluating computational methods for predicting how mutations affect protein-protein interactions, using Multiplexed Assays of Variant Effects (MAVE) data as ground truth for benchmarking.</p>
+  <div class="thesis-section">
+    <p class="thesis-label">Master Thesis</p>
+    <p class="thesis-title">Benchmarking prediction of mutational effects on protein-protein interactions using MAVE data</p>
+    <p class="thesis-description">This research focused on evaluating computational methods for predicting how mutations affect protein-protein interactions, using Multiplexed Assays of Variant Effects (MAVE) data as ground truth for benchmarking.</p>
+  </div>
   
   <h3 class="subsection-title">Relevant Coursework</h3>
-  <ul class="course-list">
+  <ul class="experience-details">
     <li>Advanced Bioinformatics</li>
-    <li>Machine Learning and Data Science for Genomics</li>
-    <li>Statistical Methods in Bioinformatics</li>
-    <li>Protein Structure and Function</li>
-    <li>Computational Biology</li>
+    <li>Machine Learning</li>
+    <li>Data Science for Genomics</li>
   </ul>
 </div>
 
@@ -42,18 +41,15 @@ title: Education
     </div>
   </div>
   
-  <h3 class="subsection-title">Academic Honors</h3>
   <ul class="experience-details">
     <li>Honor student in first and second years</li>
     <li>Erasmus Program participant at TUM School of Management</li>
   </ul>
   
   <h3 class="subsection-title">Relevant Coursework</h3>
-  <ul class="course-list">
+  <ul class="experience-details">
     <li>Data Analysis</li>
-    <li>Data Treatment and Statistics</li>
-    <li>Information Systems</li>
-    <li>Database Management</li>
-    <li>Programming Fundamentals</li>
+    <li>Data Treatment</li>
+    <li>Statistics</li>
   </ul>
 </div>
