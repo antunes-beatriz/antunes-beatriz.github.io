@@ -53,8 +53,8 @@ title: Research Projects
   
   <p class="project-tech"><span class="skill-label">Technologies:</span> Python, hmmlearn, nanopore sequencing data analysis</p>
   <a href="https://github.com/antunes-beatriz/PolyATail_project" target="_blank" class="github-link">
-  <span class="github-icon">⟨⟩</span> View Code & Report
-</a>
+    → View Code & Report on GitHub
+  </a>
 </div>
 
 <div class="project-item">
@@ -81,6 +81,6 @@ title: Research Projects
   
   <p class="project-tech"><span class="skill-label">Technologies:</span> Python, msprime</p>
   <a href="https://github.com/antunes-beatriz/ROH-project" target="_blank" class="github-link">
-  <span class="github-icon">⟨⟩</span> View Code & Report
-</a>
+    → View Code & Report on GitHub
+  </a>
 </div>
