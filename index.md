@@ -3,24 +3,47 @@ layout: default
 title: Home
 ---
 
-# Welcome
+<div class="hero-section">
+  <h1 class="main-title">Beatriz Antunes</h1>
+  <p class="tagline">Bioinformatician | Bridging Data Science and Oncology</p>
+</div>
 
-I'm a bioinformatics professional with expertise in RNA-seq analysis, computational biology, and data science. Currently working as a Bioinformatician at Universitätsklinikum Heidelberg, I combine strong technical skills in Python, R, and Unix with a passion for extracting meaningful insights from biological data.
+<p class="intro-text">
+  I specialize in turning high-dimensional biological data into actionable clinical insights. 
+  From modeling <strong>disease progression</strong> in cancer cohorts to predicting <strong>protein stability</strong>, 
+  my work lives at the intersection of machine learning and molecular biology.
+</p>
 
-## Research Interests
+<div class="section-break"></div>
 
-<ul class="experience-details">
-  <li>Computational genomics and RNA biology</li>
-  <li>Protein structure prediction and variant analysis</li>
-  <li>Machine learning applications in bioinformatics</li>
-  <li>Data visualization and statistical modeling</li>
-</ul>
+<div class="home-grid">
+  <div class="home-column">
+    <h3>What I Do</h3>
+    <p>
+      I build <strong>computational frameworks</strong> that help us understand the <em>when</em> and <em>how</em> of biology. 
+      Whether it's optimizing pipelines for HPC systems or applying survival analysis to spatial proteomics, 
+      I focus on building tools that are as robust as they are insightful.
+    </p>
+  </div>
+  
+  <div class="home-column">
+    <h3>Current Focus</h3>
+    <p>
+      Right now, I am at the <strong>Universitätsklinikum Heidelberg</strong>, implementing 
+      machine learning solutions to predict risk factors in high-risk cancer cohorts. 
+      I am passionate about <strong>reproducible research</strong> and the power of 
+      unbiased, unsupervised discovery.
+    </p>
+  </div>
+</div>
 
-## Skills Overview
+<div class="section-break"></div>
 
-<ul class="experience-details">
-  <li><strong>Programming & Analysis:</strong> Python, R, Unix/Linux, SQL</li>
-  <li><strong>Bioinformatics:</strong> RNA-seq analysis, variant calling, sequence analysis, HMM modeling</li>
-  <li><strong>Data Science:</strong> Machine learning, statistical analysis, data visualization</li>
-  <li><strong>Tools:</strong> Databricks, Power BI, Git, HPC systems</li>
-</ul>
+<div class="cta-container">
+  <p><strong>Explore my work:</strong></p>
+  <div class="cta-links">
+    <a href="/projects" class="github-link">Research Projects</a>
+    <a href="/publications" class="github-link">Latest Publication</a>
+    <a href="/contact" class="github-link">Get in Touch</a>
+  </div>
+</div>
