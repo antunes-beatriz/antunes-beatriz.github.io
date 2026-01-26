@@ -6,7 +6,7 @@ title: Research Projects
 <div class="project-item">
   <div class="experience-header">
     <div>
-      <h2>MAVE: Mutational Effects on Protein-Protein Interactions</h2>
+      <h2>Benchmarking prediction of mutational effects on protein-protein interactions using MAVE data</h2>
       <p class="company">Master's Thesis — Amelie Stein Group</p>
     </div>
     <div class="experience-meta">
@@ -34,7 +34,7 @@ title: Research Projects
   <div class="experience-header">
     <div>
       <h2>Poly(A) Tail Detection with Nanopore Data</h2>
-      <p class="company">University of Copenhagen, Sandelin Group</p>
+      <p class="company">Sandelin Group, University of Copenhagen</p>
     </div>
     <div class="experience-meta">
       <span class="duration">November 2024 - January 2025</span>
@@ -61,7 +61,7 @@ title: Research Projects
   <div class="experience-header">
     <div>
       <h2>Age of Runs of Homozygosity (ROH)</h2>
-      <p class="company">University of Copenhagen, Albrechtsen Group</p>
+      <p class="company">Albrechtsen Group, University of Copenhagen</p>
     </div>
     <div class="experience-meta">
       <span class="duration">June 2024 - August 2024</span>
