@@ -4,9 +4,7 @@ title: Contact
 ---
 
 <h1 class="section-heading">Let's Connect</h1>
-<div class="social-links" style="margin-top: 10px;">
-  <a href="www.linkedin.com/in/beatriz-antunes-bioinf" target="_blank" class="github-link">LinkedIn</a>
-</div>
+
 <div class="contact-grid">
   <div class="contact-item">
     <strong>Email</strong><br>
@@ -35,3 +33,7 @@ title: Contact
   <li><strong>Quality time</strong> with friends and engaging social connections</li>
   <li><strong>Strategic board games</strong> that challenge analytical thinking</li>
 </ul>
+
+<div class="social-links" style="margin-top: 10px;">
+  <a href="www.linkedin.com/in/beatriz-antunes-bioinf" target="_blank" class="github-link">LinkedIn</a>
+</div>
