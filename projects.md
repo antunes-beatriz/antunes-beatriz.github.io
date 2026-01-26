@@ -6,8 +6,8 @@ title: Research Projects
 <div class="project-item">
   <div class="experience-header">
     <div>
-      <h2>Benchmarking prediction of mutational effects on protein-protein interactions using MAVE data</h2>
-      <p class="company">Master's Thesis — Amelie Stein Group</p>
+      <h2>Benchmarking prediction of mutational effects on protein-protein interactions using MAVE data<span class="specialization">· Master's Thesis</span></h2>
+      <p class="company">Stein Group, University of Copenhagen</p>
     </div>
     <div class="experience-meta">
       <span class="duration">February 2025 - June 2025</span>
