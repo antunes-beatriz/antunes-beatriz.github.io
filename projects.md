@@ -34,7 +34,7 @@ title: Research Projects
   <div class="experience-header">
     <div>
       <h2>Poly(A) Tail Detection with Nanopore Data</h2>
-      <p class="company">Amelie Stein Group</p>
+      <p class="company">University of Copenhagen, Sandelin Group</p>
     </div>
     <div class="experience-meta">
       <span class="duration">November 2024 - January 2025</span>
@@ -61,7 +61,7 @@ title: Research Projects
   <div class="experience-header">
     <div>
       <h2>Age of Runs of Homozygosity (ROH)</h2>
-      <p class="company">Amelie Stein Group</p>
+      <p class="company">University of Copenhagen, Albrechtsen Group</p>
     </div>
     <div class="experience-meta">
       <span class="duration">June 2024 - August 2024</span>
