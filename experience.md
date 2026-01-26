@@ -25,7 +25,7 @@ title: Experience
   <div class="experience-header">
     <div>
       <h2>Academic Researcher</h2>
-      <p class="company">Stein Group</p>
+      <p class="company">Copenhagen University, Stein Group</p>
     </div>
     <div class="experience-meta">
       <span class="duration">November 2024 - June 2025</span>
