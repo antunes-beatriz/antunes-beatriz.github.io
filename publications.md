@@ -9,7 +9,7 @@ title: Publications
   <div class="experience-header">
     <div>
       <a href="https://doi.org/10.1038/s41598-026-35720-1" 
-         style="font-size: 1.5em">
+         style="font-size: 1.2em">
         Prognostic impact of spatial niches in prostate cancer
       </a>
     </div>
