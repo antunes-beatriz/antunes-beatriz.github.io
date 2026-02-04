@@ -18,13 +18,11 @@ title: Research Projects
   
   <h3 class="subsection-title">Key Contributions</h3>
   <ul class="experience-details">
-    <li>Benchmarked <strong>AlphaFold3</strong> and <strong>Rosetta ddG</strong> against MAVE data to predict mutational impacts on protein-protein complexes</li>
-    <li>Developed an interface-focused scoring protocol to improve the detection of deleterious mutations</li>
-    <li>Evaluated the <strong>ESM-1v</strong> protein language model as a high-throughput alternative to physics-based simulations</li>
-    <li>Validated AlphaFold structures as reliable substitutes for crystal structures in structural bioinformatics workflows</li>
+    <li><strong>Structural validation:</strong> Assessing computational models like AlphaFold3 structure as alternative for crystal structures in stability pipeline</li>
+    <li><strong>Mutational impact benchmarking:</strong> Evaluation of Rosetta ddG predictions against experimental MAVE data</li>
   </ul>
   
-  <p class="project-tech"><span class="skill-label">Technologies:</span> Python, Rosetta, AlphaFold, ESM-1v, Statistical Modeling (R)</p>
+  <p class="project-tech"><span class="skill-label">Technologies:</span> Rosetta, AlphaFold, ESM-1v, Python and R</p>
   <a href="https://github.com/antunes-beatriz/Thesis" target="_blank" class="github-link">
     → View Code & Report on GitHub
   </a>
@@ -45,10 +43,8 @@ title: Research Projects
   
   <h3 class="subsection-title">Key Contributions</h3>
   <ul class="experience-details">
-    <li>Developed <strong>Gaussian Hidden Markov Models (HMM)</strong> using <code>hmmlearn</code> to predict poly(A) tail position and length</li>
-    <li>Implemented signal processing pipelines for normalization and direction-correction of raw ionic current reads</li>
-    <li>Created a custom scoring function to benchmark HMM accuracy against <strong>Dorado basecaller</strong> predictions</li>
-    <li>Generated per-read visualizations to distinguish gene bodies from poly(A) regions based on signal fluctuations</li>
+    <li><strong>Gaussian Hidden Markov Models (HMM):</strong> Prediction of poly(A) tail position and length from raw Nanopore signals</li>
+    <li><strong>Nanopore and Dorado:</strong> Custom scoring and benchmarking against basecaller results</li>
   </ul>
   
   <p class="project-tech"><span class="skill-label">Technologies:</span> Python, hmmlearn, Nanopore Signal Processing, Data Visualization</p>
@@ -72,13 +68,11 @@ title: Research Projects
   
   <h3 class="subsection-title">Key Contributions</h3>
   <ul class="experience-details">
-    <li>Executed <strong>coalescent-based simulations</strong> (msprime) to model demographic impacts on homozygous genotype distribution</li>
-    <li>Correlated ROH segment size with genetic age using density and cumulative distribution analysis in R</li>
-    <li>Analyzed how demographic histories, such as bottlenecks and expansions, influence the persistence of genomic segments</li>
-    <li>Estimated age distributions to provide insights into inbreeding patterns and population history</li>
+    <li><strong>Coalescent models (msprime):</strong> Simulation of population demography and correlation of ROH size with age</li>
+    <li><strong>Population genetics:</strong> Analysis of population history effects on ROH distribution and persistence</li>
   </ul>
   
-  <p class="project-tech"><span class="skill-label">Technologies:</span> Python, msprime, Population Genetics, R (ggplot2)</p>
+  <p class="project-tech"><span class="skill-label">Technologies:</span> msprime, Python and R</p>
   <a href="https://github.com/antunes-beatriz/ROH-project" target="_blank" class="github-link">
     → View Code & Report on GitHub
   </a>
