@@ -22,7 +22,7 @@ title: Research Projects
     <li><strong>Mutational impact benchmarking:</strong> Evaluation of Rosetta ddG predictions against experimental MAVE data</li>
   </ul>
   
-  <p class="project-tech"><span class="skill-label">Technologies:</span> Rosetta, AlphaFold, ESM-1v, Python and R</p>
+  <p class="project-tech"><span class="skill-label">Technologies:</span> Rosetta, AlphaFold, ESM-1v, Python</p>
   <a href="https://github.com/antunes-beatriz/Thesis" target="_blank" class="github-link">
     → View Code & Report on GitHub
   </a>
@@ -47,7 +47,7 @@ title: Research Projects
     <li><strong>Nanopore and Dorado:</strong> Custom scoring and benchmarking against basecaller results</li>
   </ul>
   
-  <p class="project-tech"><span class="skill-label">Technologies:</span> Python, hmmlearn, Nanopore Signal Processing, Data Visualization</p>
+  <p class="project-tech"><span class="skill-label">Technologies:</span> Python, hmmlearn, Nanopore Signal Processing</p>
   <a href="https://github.com/antunes-beatriz/PolyATail_project" target="_blank" class="github-link">
     → View Code & Report on GitHub
   </a>
