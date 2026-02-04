@@ -8,9 +8,11 @@ title: Publications
 <div class="project-item" style="font-family: 'Georgia', serif;">
   <div class="experience-header">
     <div>
-      <h3 href="https://doi.org/10.1038/s41598-026-35720-1" target="_blank">
+      <a href="https://doi.org/10.1038/s41598-026-35720-1" 
+         target="_blank" 
+         style="font-size: 1.5em; font-weight: bold; text-decoration: none; color: inherit;">
         Prognostic impact of spatial niches in prostate cancer
-      </h3>
+      </a>
     </div>
     <div class="experience-meta">
       <span class="duration">January 2026</span>
