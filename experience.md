@@ -15,9 +15,9 @@ title: Experience
     </div>
   </div>
   <ul class="experience-details">
-    <li>Implementing <strong>machine learning frameworks</strong> to predict the timing and risk of disease progression in high-risk cancer cohorts</li>
-    <li><strong>RNA-seq data processing</strong> and differential expression analysis using nf-core/rnaseq and DESeq2</li>
-    <li><strong>Statistical significance assessment</strong> and high-dimensional data visualization in R and Python</li>
+    <li><strong>Machine learning:</strong> Predicting timing and risk of disease progression in high-risk cancer cohorts</li>
+    <li><strong>RNA-seq (nf-core/rnaseq, DESeq2):</strong> Data processing and differential expression analysis</li>
+    <li><strong>Statistical analysis and visualization (R, Python):</strong> Significance testing and high-dimensional data visualization</li>
   </ul>
 </div>
 
@@ -33,8 +33,8 @@ title: Experience
     </div>
   </div>
   <ul class="experience-details">
-    <li><strong>Protein variant generation</strong> and stability prediction using Rosetta</li>
-    <li><strong>Pipeline optimization</strong> and high-throughput execution in Python and Unix on <strong>HPC systems</strong></li>
+    <li><strong>Python, Unix, HPC:</strong> Execution of Rosetta pipelines for protein variant generation and stability prediction</li>
+    <li><strong>Pipeline maintenance:</strong> Debugging and configuration of Python-based Rosetta workflows</li>
   </ul>
 </div>
 
@@ -50,9 +50,8 @@ title: Experience
     </div>
   </div>
   <ul class="experience-details">
-    <li><strong>Data cleaning and processing</strong> at scale using Databricks and PySpark</li>
-    <li>Interactive <strong>dashboard development</strong> in Power BI to translate complex data into user insights</li>
-    <li>Product testing and issue reporting in <strong>cross-functional Agile teams</strong></li>
+    <li><strong>Databricks:</strong> Processing and cleaning large-scale product data</li>
+    <li><strong>Power BI:</strong> Development of interactive dashboards for product and user insights</li>
   </ul>
 </div>
 
@@ -63,18 +62,20 @@ title: Experience
 <div class="skills-grid">
   <div class="skill-item">
     <h3>Programming Languages</h3>
-    <p><code>Python</code> numpy, scipy, pandas, matplotlib, seaborn, sklearn, tensorflow, torch, hmmlearn, dna_features_viewer</p>
-    <p><code>R</code> ggplot2, ggrepel, pheatmap, tidyverse, DESeq2, Biostrings, bioseq, msa, phytools, ape, geiger</p>
+    <p><code>Python</code> NumPy, SciPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, hmmlearn, dna_features_viewer</p>
+    <p><code>R</code> Tidyverse, DESeq2, survival, ComplexHeatmap, Biostrings, bioseq, msa, phytools, ape, geiger</p>
     <p><code>Unix/Linux</code> <code>SQL</code> <code>PySpark</code></p>
   </div>
   
   <div class="skill-item">
     <h3>Tools & Platforms</h3>
-    <p><code>PowerBI</code> for data visualization</p>
-    <p><code>Databricks</code> for data analysis and processing</p>
-    <p><code>Vue</code> for frontend development</p>
-    <p><code>Git</code> for version control and collaboration</p>
-    <p>HPC systems and cluster computing</p>
+      <p><code>Git</code> for version control and collaboration</p>
+      <p>HPC systems, cluster computing, and <code>Unix</code></p>
+      <p><code>Docker</code> for containerization and deployment</p>
+      <p><code>PowerBI</code> for data visualization</p>
+      <p><code>Databricks</code> for data analysis and processing</p>
+      <p><code>Vue</code> for frontend development</p>
+
   </div>
   
   <div class="skill-item">
