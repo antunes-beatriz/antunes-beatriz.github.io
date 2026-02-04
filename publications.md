@@ -8,27 +8,15 @@ title: Publications
 <div class="project-item">
   <div class="experience-header">
     <div>
-      <h2>Prognostic impact of spatial niches in prostate cancer</h2>
+      <h2>Schneider, F., Boning, S. H., Antunes, B. C., Kaczorowski, A., Gortz, M., Schutz, V., . . . Duensing, A. (2026). Prognostic impact of spatial niches in prostate cancer. Sci Rep, 16(1), 2598.\\doi:10.1038/s41598-026-35720-1</h2>
     </div>
     <div class="experience-meta">
       <span class="duration">January 2026</span>
     </div>
   </div>
-  
-  <p class="project-description">
-    This study utilizes Digital Spatial Profiling to identify protein-based spatial biomarkers by comparing tumor-center and periphery spatial niches.
-  </p>
-
-  <h3 class="subsection-title">Key Contributions</h3>
-  <ul class="experience-details">
-    <li>Applied <strong>univariate and multivariate Cox regression</strong> to demonstrate that patient clusters predict progression-free survival more accurately than single protein drivers.</li>
-    <li>Conducted <strong>unsupervised hierarchical clustering</strong> and <strong>PCA</strong> to identify distinct patient molecular subgroups independent of traditional clinical parameters like Gleason score.</li>
-    <li>Validated the prognostic value of spatial niches (tumor-center vs. periphery) using multivariate modeling and statistical fit assessments (AIC/ANOVA).</li>
-    <li>Developed comprehensive data visualizations to communicate complex spatial proteomics patterns and patient stratification.</li>
-  </ul>
 
   <p class="project-tech">
-    <span class="skill-label">Keywords:</span> Prostate Cancer, Spatial Proteomics, Survival Analysis, Cox Regression, R
+    <span class="skill-label">Keywords:</span> Prostate Cancer, Digital Spatial Profiling (DSP), Survival Analysis, Cox Regression, R
   </p>
   
   <div class="publication-links">
