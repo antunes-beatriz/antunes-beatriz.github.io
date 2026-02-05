@@ -24,7 +24,7 @@ title: Home
 <div class="cta-container">
   <p><strong>Explore my work:</strong></p>
   <div class="cta-links">
-    <a href="/projects" class="github-link">MAter's Projects</a>
+    <a href="/projects" class="github-link">Master's Projects</a>
     <a href="/publications" class="github-link">Latest Publication</a>
     <a href="/contact" class="github-link">Get in Touch</a>
   </div>
