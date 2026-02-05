@@ -4,7 +4,6 @@ title: Home
 ---
 
 <h1 class="main-title">Beatriz Antunes</h1>
-<p class="tagline">Bioinformatician</p>
 
 <p class="intro-text">
   I am a recent Bioinformatics graduate (MSc) currently working as a <strong>Bioinformatician at Universitätsklinikum Heidelberg</strong>. 
@@ -25,7 +24,7 @@ title: Home
 <div class="cta-container">
   <p><strong>Explore my work:</strong></p>
   <div class="cta-links">
-    <a href="/projects" class="github-link">Research Projects</a>
+    <a href="/projects" class="github-link">MAter's Projects</a>
     <a href="/publications" class="github-link">Latest Publication</a>
     <a href="/contact" class="github-link">Get in Touch</a>
   </div>
