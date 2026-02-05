@@ -4,17 +4,10 @@ title: Home
 ---
 
 <h1 class="main-title">Beatriz Antunes</h1>
-<p class="tagline">Bioinformatician & Data Scientist</p>
+<p class="tagline">Bioinformatician</p>
 
 <p class="intro-text">
   I am a recent Bioinformatics graduate (MSc) currently working as a <strong>Bioinformatician at Universitätsklinikum Heidelberg</strong>. 
-  I focus on applying machine learning and statistical modeling to oncology, specifically looking for ways to better predict disease progression.
-</p>
-
-<p class="intro-text">
-  I enjoy the challenge of bridging the gap between raw biological data and clinical meaning. 
-  With a background in <strong>Information Management</strong> and a Master's specialization in <strong>Computer Science</strong>, 
-  I like building clean, reproducible pipelines and exploring new ways to visualize complex patterns in biology.
 </p>
 
 <div class="section-break"></div>
