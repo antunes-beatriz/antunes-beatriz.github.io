@@ -23,7 +23,7 @@ title: Home
   <li>Analysis of Nanopore sequencing data using Gaussian HMMs</li>
   <li>Population genetics analyses using coalescent simulations and runs of homozygosity</li>
   <li>Processing and visualization of large scale datasets using Databricks and Power BI</li>
-  <li>Software testing, documentation, and user support in collaborative research and industry projects</li>
+  <li>Software testing, documentation and user support</li>
 </ul>
 
 <div class="section-break"></div>
