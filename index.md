@@ -6,24 +6,24 @@ title: Home
 <h1 class="main-title">Beatriz Antunes</h1>
 
 <p class="intro-text">
-  I am a bioinformatician currently working at the Universitätsklinikum Heidelberg. I completed my MSc in Bioinformatics in June 2025 at the University of Copenhagen.
-  My current work focuses on RNA sequencing data analysis in a clinical research setting, including differential expression analysis, statistical modeling, and data visualization. I work closely with clinicians and other researchers to support data analyses for ongoing studies.
+  I am a bioinformatician currently working at Universitätsklinikum Heidelberg, where I apply computational and statistical methods to clinical cancer research. I completed my MSc in Bioinformatics at the University of Copenhagen in 2025. My work sits at the intersection of multi-omics data analysis, survival modelling and clinical research.
 </p>
 
 <div class="section-break"></div>
 
 <p class="project-description">
-  Previously, I have worked on:
+  Previous experience includes:
 </p>
 
 <ul class="experience-details">
-  <li>Analysis of digital spatial profiling data for comparison of biological conditions</li>
-  <li>Benchmarking computational predictions of mutational effects using experimental MAVE data</li>
-  <li>Execution and debugging of Python based Rosetta pipelines on HPC systems</li>
-  <li>Analysis of Nanopore sequencing data using Gaussian HMMs</li>
-  <li>Population genetics analyses using coalescent simulations and runs of homozygosity</li>
-  <li>Processing and visualization of large scale datasets using Databricks and Power BI</li>
-  <li>Software testing, documentation and user support</li>
+  <li>Analysis of spatial protein and RNA profiling data from tissue sections using digital spatial profiling</li>
+  <li>Survival modelling on structured clinical variables in cancer cohorts</li>
+  <li>Transcriptomic analysis including differential expression from RNA-seq data processed with nf-core pipelines</li>
+  <li>Benchmarking of computational predictions of mutational effects against experimental MAVE data</li>
+  <li>Execution and debugging of Rosetta-based protein variant generation pipelines on HPC systems</li>
+  <li>Nanopore sequencing data analysis using Gaussian Hidden Markov Models</li>
+  <li>Population genetics analysis of runs of homozygosity and their relationship to population history using coalescent simulations</li>
+  <li>Processing and visualisation of large-scale product data using Databricks and Power BI</li>
 </ul>
 
 <div class="section-break"></div>
