@@ -15,9 +15,9 @@ title: Experience
     </div>
   </div>
   <ul class="experience-details">
-    <li><strong>Machine learning:</strong> Predicting timing and risk of disease progression in high-risk cancer cohorts</li>
-    <li><strong>RNA-seq (nf-core/rnaseq, DESeq2):</strong> Data processing and differential expression analysis</li>
-    <li><strong>Statistical analysis and visualization (R, Python):</strong> Significance testing and high-dimensional data visualization</li>
+    <li><strong>nCounter DSP (R):</strong> Spatial profiling of protein and RNA biomarkers from tissue ROIs, characterizing tumor microenvironment composition across patient cohorts.</li>
+    <li><strong>Cox regression, LASSO, Kaplan-Meier (R):</strong> Survival modeling on structured clinical variables to predict disease progression timing and risk.</li>
+    <li><strong>RNA-seq (nf-core pipeline, DESeq2):</strong> End-to-end transcriptomic processing and differential expression analysis.</li>
   </ul>
 </div>
 
@@ -33,8 +33,7 @@ title: Experience
     </div>
   </div>
   <ul class="experience-details">
-    <li><strong>Python, Unix, HPC:</strong> Execution of Rosetta pipelines for protein variant generation and stability prediction</li>
-    <li><strong>Pipeline maintenance:</strong> Debugging and configuration of Python-based Rosetta workflows</li>
+    <li><strong>Python, Unix, HPC:</strong> Executed Rosetta pipelines for protein variant generation and stability prediction, and debugged and configured the pipeline as needed.</li>
   </ul>
 </div>
 
@@ -50,8 +49,8 @@ title: Experience
     </div>
   </div>
   <ul class="experience-details">
-    <li><strong>Databricks:</strong> Processing and cleaning large-scale product data</li>
-    <li><strong>Power BI:</strong> Development of interactive dashboards for product and user insights</li>
+    <li><strong>Databricks (PySpark, SQL):</strong> Processed and cleaned large-scale product data to enable reliable downstream analytics.</li>
+    <li><strong>Power BI:</strong> Developed interactive dashboards for product and user insights, used by internal product teams.</li>
   </ul>
 </div>
 
@@ -63,7 +62,7 @@ title: Experience
   <div class="skill-item">
     <h3>Programming Languages</h3>
     <p><code>Python</code> NumPy, SciPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, hmmlearn, dna_features_viewer</p>
-    <p><code>R</code> Tidyverse, DESeq2, survival, ComplexHeatmap, Biostrings, bioseq, msa, phytools, ape, geiger</p>
+    <p><code>R</code> Tidyverse, DESeq2, Shiny, survival, ComplexHeatmap, Biostrings, bioseq, msa, phytools, ape, geiger</p>
     <p><code>Unix/Linux</code> <code>SQL</code> <code>PySpark</code></p>
   </div>
   
