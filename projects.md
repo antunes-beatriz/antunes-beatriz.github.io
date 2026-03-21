@@ -18,8 +18,8 @@ title: Research Projects
   
   <h3 class="subsection-title">Key Contributions</h3>
   <ul class="experience-details">
-    <li><strong>Structural validation:</strong> Assessing computational models like AlphaFold3 structure as alternative for crystal structures in stability pipeline</li>
-    <li><strong>Mutational impact benchmarking:</strong> Evaluation of Rosetta ddG predictions against experimental MAVE data</li>
+    <li><strong>AlphaFold3:</strong> Assessed predicted structures as alternatives to crystal structures in the stability pipeline.</li>
+    <li><strong>Rosetta ddG, Python:</strong> Evaluated computational ddG predictions against experimental MAVE data for mutational impact benchmarking.</li>
   </ul>
   
   <p class="project-tech"><span class="skill-label">Technologies:</span> Rosetta, AlphaFold, ESM-1v, Python</p>
@@ -43,8 +43,8 @@ title: Research Projects
   
   <h3 class="subsection-title">Key Contributions</h3>
   <ul class="experience-details">
-    <li><strong>Gaussian Hidden Markov Models (HMM):</strong> Prediction of poly(A) tail position and length from raw Nanopore signals</li>
-    <li><strong>Nanopore and Dorado:</strong> Custom scoring and benchmarking against basecaller results</li>
+    <li><strong>Python, hmmlearn:</strong> Implemented Gaussian HMM from scratch to detect poly(A) tail boundaries in raw Nanopore signals.</li>
+    <li><strong>Dorado, Nanopore:</strong> Benchmarked custom model against basecaller output, achieving competitive accuracy on novel signal types.</li>
   </ul>
   
   <p class="project-tech"><span class="skill-label">Technologies:</span> Python, hmmlearn, Nanopore Signal Processing</p>
@@ -68,8 +68,8 @@ title: Research Projects
   
   <h3 class="subsection-title">Key Contributions</h3>
   <ul class="experience-details">
-    <li><strong>Coalescent models (msprime):</strong> Simulation of population demography and correlation of ROH size with age</li>
-    <li><strong>Population genetics:</strong> Analysis of population history effects on ROH distribution and persistence</li>
+    <li><strong>Coalescent modeling, R:</strong> Simulated population demography and correlated ROH size with age across population histories.</li>
+    <li><strong>Statistical analysis:</strong> Quantified how demographic events leave measurable genomic signatures in high-dimensional data.</li>
   </ul>
   
   <p class="project-tech"><span class="skill-label">Technologies:</span> msprime, Python and R</p>
