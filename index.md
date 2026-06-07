@@ -6,7 +6,7 @@ title: Home
 <h1 class="main-title">Beatriz Antunes</h1>
 
 <p class="intro-text">
-  I am a bioinformatician currently working at Universitätsklinikum Heidelberg, where I apply computational and statistical methods to clinical cancer research. I completed my MSc in Bioinformatics at the University of Copenhagen in 2025. My work sits at the intersection of multi-omics data analysis, survival modelling and clinical research.
+  I am a bioinformatician currently working at Universitätsklinikum Heidelberg, where I run end-to-end analyses in RNA-seq, spatial biomarker profiling and survival modelling on clinical cohort data.
 </p>
 
 <div class="section-break"></div>
