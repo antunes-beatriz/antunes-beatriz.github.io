@@ -3,8 +3,6 @@ layout: default
 title: Contact
 ---
 
-<h1 class="section-heading">Let's Connect</h1>
-
 <div class="contact-grid">
   <div class="contact-item">
     <strong>Email</strong><br>
@@ -31,7 +29,6 @@ title: Contact
   <li><strong>Music and podcasts</strong> for relaxation and continuous learning</li>
   <li><strong>Exercise</strong> to stay healthy and energized</li>
   <li><strong>Quality time</strong> with friends and engaging social connections</li>
-  <li><strong>Strategic board games</strong> that challenge analytical thinking</li>
 </ul>
 
 <div class="social-links" style="margin-top: 10px;">
